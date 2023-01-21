@@ -1,6 +1,6 @@
 # I3polybar
 
-This is my second theme regarding i3wm. You can apply this theme in any distro of with i3wm.
+This is my second theme regarding i3wm. You can apply this theme in any distro with i3wm.
 
 # Screanshots
 
@@ -15,14 +15,14 @@ step -1 {Replace my polybar folder with your polybar folder in your .config fold
 
 step -2 {Install the fronts given in my fronts folder if necessary}
 
-step -3 {last step , add polybar in your i3 config. You can try my i3 config if you want .If u want to add walpaper like mine , then go go walpaper folder apply apply it.}
+step -3 {last step , add polybar in your i3 config. You can try my i3 config if you want .If u want to add walpaper like mine , then go to walpaper folder and apply it.}
 
-# Issues
- You can see some issue with battery and display module .
- In this case you have to edit module according to your device 
+# Issue
+ You may see some issue with battery and display module .
+ In this case, you have to edit module according to your device 
  
 # Keybinds (If you use my i3 config}
-mod (win key)
+mod =win key
 
 
 
