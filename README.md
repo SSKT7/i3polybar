@@ -9,7 +9,7 @@ This is my second theme regarding i3wm. You can apply this theme in any distro o
 ![2023-01-21-162732_1920x1080_scrot](https://user-images.githubusercontent.com/82232181/213862863-3a3219cc-2aa8-4836-8c23-f0a11b79cf43.png)
 
 # Installation
-I have made this installation very easy, so thhat every one can apply this theme . 
+I have made this installation very easy, so that every one can apply this theme . 
 
 step -1 {Replace my polybar folder with your polybar folder in your .config folder}
 
@@ -60,7 +60,7 @@ mod + x = to show shutdown , reboot , exit option
 
 
 
-                  (shift+s)    (r)      (e)
+                  (shift+s)    (r)     (e)
 
 
 
